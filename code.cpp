@@ -29,8 +29,8 @@ Matrix3d &DLT(vector<vector<double>> &originalne_tacke, vector<vector<double>> &
 	// postoji bar 1 nepoznata, 2 jednacine
 	// 0, 0, 0, -x1*x3', -x2*x3', -x3*x3', x1*x2', x2*x2', x3*x3'
 	// x1*x3', x2*x3', x3*x3', 0, 0, 0, -x1*x1', -x2*x1', -x3*x1'
-	// x1 = originalne_tacke[0][0], x1 = originalne_tacke[0][1], x3 = originalne_tacke[0][2]
-	// x1' = tacke_slike[0][0], x1 = tacke_slike[0][1], x3 = tacke_slike[0][2]
+	// x1 = originalne_tacke[0][0], x2= originalne_tacke[0][1], x3 = originalne_tacke[0][2]
+	// x1' = tacke_slike[0][0], x2' = tacke_slike[0][1], x3' = tacke_slike[0][2]
 	pom1 << 0, 0, 0,
 		-originalne_tacke[0][0] * tacke_slike[0][2], -originalne_tacke[0][1] * tacke_slike[0][2], -originalne_tacke[0][2] * tacke_slike[0][2],
 		originalne_tacke[0][0] * tacke_slike[0][1], originalne_tacke[0][1] * tacke_slike[0][1], originalne_tacke[0][2] * tacke_slike[0][1],
