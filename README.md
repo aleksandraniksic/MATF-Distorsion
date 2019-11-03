@@ -9,3 +9,6 @@ Implementirani:
 3) Modifikovani DLT algoritam (sa normalizacijom)
 4) Aplikacija koja ucitava bmp sliku, korisnik bira (mišem ili unosi koordinate) 4 piksela koji se slikaju u pravougaonik, a aplikacija vraca sliku sa otklonjenom projektivnom distorzijom
 
+Jezik: C++
+Biblioteke: Eigen, CImg
+
