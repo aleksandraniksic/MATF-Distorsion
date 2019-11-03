@@ -1,1 +1,1 @@
-U ovom folderu smestene su testne slike, za slucaj primene algoritma u kom tacke unosimo klikom na sliku.
+U ovom folderu smestene su testne slike, za slucaj primene algoritma u kom tacke unosimo klikom na sliku. Neke od upotrebljenih slika za testiranje nisu ovde zbog velikog memorijskog zauzeca. Moze se koristi bilo koja slika sa ekstenzijom '.bmp'.
