@@ -13,3 +13,4 @@ Jezik: C++
 
 Biblioteke: Eigen, CImg
 
+Kod se na Linux-u iz terminala prevodi sa: g++ -std=c++17 -o out code.cpp -lm -lpthread -lX11, a pokrece sa ./out
