@@ -1,1 +1,3 @@
-Biblioteka Eigen
+Link za preuzimanje biblioteke Eigen:
+
+http://eigen.tuxfamily.org/index.php?title=Main_Page
